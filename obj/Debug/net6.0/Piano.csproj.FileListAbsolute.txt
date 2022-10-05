@@ -1,0 +1,15 @@
+/Users/liuliu/Projects/Piano/Piano/bin/Debug/net6.0/Piano
+/Users/liuliu/Projects/Piano/Piano/bin/Debug/net6.0/Piano.deps.json
+/Users/liuliu/Projects/Piano/Piano/bin/Debug/net6.0/Piano.runtimeconfig.json
+/Users/liuliu/Projects/Piano/Piano/bin/Debug/net6.0/Piano.dll
+/Users/liuliu/Projects/Piano/Piano/bin/Debug/net6.0/Piano.pdb
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.csproj.AssemblyReference.cache
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.AssemblyInfoInputs.cache
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.AssemblyInfo.cs
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.csproj.CoreCompileInputs.cache
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.dll
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/refint/Piano.dll
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.pdb
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/Piano.genruntimeconfig.cache
+/Users/liuliu/Projects/Piano/Piano/obj/Debug/net6.0/ref/Piano.dll
